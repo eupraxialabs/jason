@@ -3,6 +3,8 @@
 
 Jason is an easy-to-use JSON library for Go.
 
+This library is the work of Anton Holmquist. It is used in Eupraxia Labs Blueprint:PersistentVolumeManager application.
+
 [![Build Status](https://img.shields.io/travis/antonholmquist/jason.svg?style=flat)](https://travis-ci.org/antonholmquist/jason) [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/antonholmquist/jason) [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/antonholmquist/jason/master/LICENSE)
 
 # About...
